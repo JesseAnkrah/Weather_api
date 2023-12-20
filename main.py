@@ -1,4 +1,5 @@
 import requests
+# I also made this a repo on github this is the link: https://github.com/mugeltun/Weather_api
 
 API_KEY = 'ce965a163d729883d7494b4b5fa5ac57'
 
